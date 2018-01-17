@@ -1,6 +1,6 @@
 {  
   "name": "魅抢",  
-  "version": "1.0.0", 
+  "version": "1.0.1", 
   "manifest_version": 2,   
   "description": "魅族官网抢手机",  
   "browser_action": {  
