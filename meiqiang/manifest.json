@@ -1,6 +1,6 @@
 {  
   "name": "魅抢",  
-  "version": "1.0.1", 
+  "version": "1.0.3", 
   "manifest_version": 2,   
   "description": "魅族官网抢手机",  
   "browser_action": {  
@@ -8,6 +8,6 @@
     "default_title": "魅抢",
     "default_popup": "popup.html"
   },
-    "content_scripts": [{"matches": ["*://*/*"],"js": ["baidu.js"]}],
-    "permissions": ["*://*/*","tabs"]
+  "content_scripts": [{"matches": ["*://*/*"],"js": ["baidu.js"]}],
+  "permissions": ["*://*/*","tabs"]
 }
